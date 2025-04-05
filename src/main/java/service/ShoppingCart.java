@@ -1,7 +1,6 @@
 package service;
 
 import model.Food;
-import model.Discountable;
 
 public class ShoppingCart {
     private Food[] items;
